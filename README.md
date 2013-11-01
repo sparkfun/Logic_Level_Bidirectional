@@ -10,7 +10,6 @@ This is a bidirectional logic level converter that allows you to communicate bet
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
-* **/Libraries** - All Arduino libraries and board examples
 * **/Production** - Test bed files and production panel files
 
 License Information
