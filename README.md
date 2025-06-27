@@ -1,7 +1,7 @@
 Logic Level Converter Bidirectional
 =========================
 
-[![Logic Level Converter Bi-Directional](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/2/0/0/9/12009-06_medium.jpg)](https://www.sparkfun.com/products/12009)
+[![Logic Level Converter Bi-Directional](https://cdn.sparkfun.com/assets/parts/8/5/2/2/12009-06.jpg)](https://www.sparkfun.com/products/12009)
 
 [*Logic Level Converter Bi-Directional (BOB-12009)*](https://www.sparkfun.com/products/12009)
 
